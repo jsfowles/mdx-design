@@ -1,7 +1,7 @@
 public_folder: "/public/images" # The s
 media_folder: "public/images" # Media files will be stored in the repo under static/images/uploads
 backend:
-  name: github
+  name: git-gateway
   repo: jsfowles/mdx-design
   branch: main # Branch to update (optional; defaults to master)
   publish_mode: editorial_workflow
